@@ -94,5 +94,7 @@
 			<string>0.7.1</string>
 		</dict>
 	</dict>
+	<key>NSUIElement</key>
+	<string>1</string>
 </dict>
 </plist>
